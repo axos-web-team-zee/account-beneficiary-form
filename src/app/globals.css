@@ -351,7 +351,7 @@ div#ffPage529 .ff-signwrapper-outer {
 }
 
 .ff-ui-dialog .ff-ui-dialog-buttonpane .ff-ui-dialog-buttonset {
-  float: none;
+  float: none !important;
   text-align: center;
 }
 
